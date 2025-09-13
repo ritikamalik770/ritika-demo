@@ -1,3 +1,4 @@
 # ritika-demo
-This is my first git repository
-author - ritika
+This is my first git repository.
+<br>
+author - ritika malik
